@@ -1,6 +1,6 @@
 # Detección de Retinopatía Diabética
 
-Este proyecto fue realizado por Ignacio Boero, Santiago Díaz y Tomás Vázquez, basado en el desafío de Kaggle de Detección de Retinopatía Diabética \url{https://www.kaggle.com/c/diabetic-retinopathy-detection}.
+Este proyecto fue realizado por Ignacio Boero, Santiago Díaz y Tomás Vázquez, basado en el desafío de Kaggle de Detección de Retinopatía Diabética - https://www.kaggle.com/c/diabetic-retinopathy-detection.
 
 El problema consiste en la automatización de la detección de retinopatía diabética en pacientes a partir de imágenes de alta resolución de la retina de los ojos, mediante el uso de redes neuronales convolucionales (CNN). Esta enfermedad es la principal causa de ceguera, y se estima que afecta al menos 93 millones de personas. Esta se desarrolla generalmente como consecuencia de la diabetes. Hoy en día el proceso de detección se realiza manualmente, y consiste en un profesional el cual analiza la imagen en busca de anomalías vasculares. Este proceso es efectivo, sin embargo presenta la limitación de la necesidad del tiempo de un profesional, lo que muchas veces genera que un estudio esté en espera horas, días, o hasta semanas antes de poder ser analizado por un profesional.\\
 
